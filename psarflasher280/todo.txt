@@ -1,0 +1,6 @@
+- reinstate battery check
+DONE - check that errorexit is working ok
+- tidy up display / credits
+- readme
+- check for ta82, block downgrade to unsafe firmwares (maybe just allow 271?)
+- incorporate kmode func finders into eloader (see utilsforkernel resolver)
